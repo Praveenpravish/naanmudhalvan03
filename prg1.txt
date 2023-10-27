@@ -1,0 +1,21 @@
+<html>
+  	<head>
+		<title>Project</title>
+	</head>
+	<body background="d://p1.jpg">
+	<center>
+	<font color="red" size="40">
+	<p>GOVERNMENT	ARTS AND SCIENCE COLLEGE<br>
+	<br>PERAMBALUR</p>
+	<br><br><br><br><br>
+	</font>
+	<table border="1">
+	<tr><td><a href="d://prg1.html">GO TO PREVIOUS PAGE! ! !</a></td></tr>
+	<tr><td><a href="d://prg1.html">HOME PAGE! ! !</a></td></tr>
+	</table>
+	<font color="yellow" size="30">
+	<br><br>
+	<p>///*******WELCOME TO MY COLLEGE*******///</p>
+	</font>
+	</body>
+</html>	
